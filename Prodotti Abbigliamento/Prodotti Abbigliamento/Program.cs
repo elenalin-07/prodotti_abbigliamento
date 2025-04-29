@@ -1,15 +1,17 @@
 ﻿string filePath = "prodotti_abbligliamento_aggiornati.txt";
-string filePath1;
-
-
 
 string[] prodotti = File.ReadAllLines("prodotti_abbigliamento.txt");
 string[] strings = new string[5];
 float prezzo;
 
 StreamWriter writer = new StreamWriter(filePath);
-StreamWriter writer1 = new StreamWriter(filePath1);
 
+StreamWriter writer_sport = new StreamWriter("sport.txt");
+StreamWriter writer_shoes = new StreamWriter("shoes.txt");
+StreamWriter writer_donna = new StreamWriter("donna.txt");
+StreamWriter writer_uomo = new StreamWriter("uomo.txt");
+StreamWriter writer_bambino = new StreamWriter("bambino.txt");
+StreamWriter writer_accessori = new StreamWriter("accessori.txt");
 
 for (int i = 0; i < prodotti.Length; i++)
 {
@@ -21,29 +23,53 @@ for (int i = 0; i < prodotti.Length; i++)
         prezzo = float.Parse(strings[3]) + float.Parse(strings[3]) * 10 / 100;
         strings[3] = prezzo.ToString();
 
-        if (strings[2] == "Sport")
+        if (strings.Contains("Sport"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_sport.Write(strings[j] + " ");
+            }
+            writer_sport.WriteLine();
         }
-        else if (strings[2] == "Shoes")
+        else if (strings.Contains("Shoes"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_shoes.Write(strings[j] + " ");
+            }
+            writer_shoes.WriteLine();
         }
-        else if (strings[2] == "Donna")
+        else if (strings.Contains("Donna"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_donna.Write(strings[j] + " ");
+            }
+            writer_donna.WriteLine();
         }
-        else if (strings[2] == "Uomo")
+        else if (strings.Contains("Uomo"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_uomo.Write(strings[j] + " ");
+            }
+            writer_uomo.WriteLine();
         }
-        else if (strings[2] == "Bambino")
+        else if (strings.Contains("Bambino"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_bambino.Write(strings[j] + " ");
+            }
+            writer_bambino.WriteLine();
         }
-        else if (strings[2] == "Accessori")
+        else if (strings.Contains("Accessori"))
         {
-
+            for (int j = 0; j < strings.Length; j++)
+            {
+                writer_accessori.Write(strings[j] + " ");
+            }
+            writer_accessori.WriteLine();
         }
     }
 
@@ -55,3 +81,10 @@ for (int i = 0; i < prodotti.Length; i++)
 }
 
 writer.Close();
+
+writer_sport.Close();
+writer_shoes.Close();
+writer_donna.Close();
+writer_uomo.Close();
+writer_bambino.Close();
+writer_accessori.Close();
