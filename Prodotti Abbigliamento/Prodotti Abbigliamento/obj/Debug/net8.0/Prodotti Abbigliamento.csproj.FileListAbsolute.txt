@@ -1,0 +1,14 @@
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\bin\Debug\net8.0\Prodotti Abbigliamento.exe
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\bin\Debug\net8.0\Prodotti Abbigliamento.deps.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\bin\Debug\net8.0\Prodotti Abbigliamento.runtimeconfig.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\bin\Debug\net8.0\Prodotti Abbigliamento.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\bin\Debug\net8.0\Prodotti Abbigliamento.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.AssemblyInfoInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.AssemblyInfo.cs
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.csproj.CoreCompileInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\refint\Prodotti Abbigliamento.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\Prodotti Abbigliamento.genruntimeconfig.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\Prodotti Abbigliamento\Prodotti Abbigliamento\obj\Debug\net8.0\ref\Prodotti Abbigliamento.dll
